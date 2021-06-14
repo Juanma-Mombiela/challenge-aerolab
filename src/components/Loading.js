@@ -1,5 +1,5 @@
 import React from "react";
-import { Stack, Heading, Image, CircularProgress} from "@chakra-ui/react";
+import { Stack, Heading, Image} from "@chakra-ui/react";
 import { motion } from "framer-motion";
 
 const transitionValues = {
